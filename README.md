@@ -1,6 +1,6 @@
 # "Circling the Sun" - Quantitive Algo
 The earth will circle the sun every year, turning on its axis four times, creating the seasons, which embedds a natural demand cycle this quantitative algorithm captures. 
-Equities are entered into algo, which autonomously sells a put option and buys shares at each 10% decrease at three levels (Martingale Approach). 
+Equities are entered into algo, which autonomously sells a put option and buys shares at each 10% decrease at three levels (Martingale Approach). Intergrates LLM AI portfolio manager component. 
 
 Fiscal Quarter 3: July - Sept 2025, targets companies with increased cashflow in summer months 
 
