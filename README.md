@@ -1,6 +1,6 @@
 # Project Overviews
 
-Stock Quantitative Algorithm: (Martingale Approach)
+Trading Bot - Quantitative Algorithm: (Martingale Approach)
 
 - Equities are entered into algo, autonomously buys shares at each percentage decrease at each level. 
 
