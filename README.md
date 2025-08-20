@@ -8,8 +8,10 @@ Stock Quantitative Algorithm: (Martingale Approach)
 
 
 Black Scholes Model: (1,000,000+ simulations) 
-  
-- Shows Geometric Brownian Motion price path and short-put P/L, compares to a market quote, and runs a Monte Carlo of terminal P/L per contract.
 
-- Uses five inputs (Underlying price, Strike Price, Volatility, Risk Free Rate, Time to maturity).
+- Long/Short Put & Long/Short Call Options. 
+  
+- Shows Geometric Brownian Motion price path, compares to a market quote, and runs a Monte Carlo of terminal P/L per contract.
+
+- Uses inputs (Underlying price, Strike Price, Volatility, Risk Free Rate, Time to maturity, Ask, Bid).
 
